@@ -52,7 +52,7 @@ Blanched zucchini
 
 ## Habitat 
 
-**Photonic scehdule**  
+**Photonic schedule**  
 ![](photonic.png)  
 *(Fluval AqauSky LED app) As you can see from the schedule, the fish and plants have a clear diurnal schedule*
 
